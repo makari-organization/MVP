@@ -2,7 +2,7 @@
 
 Welcome to **Makari** – the platform that connects ocean-conscious investors, innovative creators, and eco-aware businesses in a mutual voyage for oceanic well-being and economic growth.
 
-![Landing](Makari-Web-App-Landing.png)
+![Landing](Makari-Landing.png)
 
 ### Overview 🌊
 
