@@ -2,7 +2,7 @@
 
 Welcome to **Makari** – a platform where ocean-conscious investors, innovative creators, and eco-aware businesses set sail towards mutual prosperity and oceanic sustainability. 
 
-![Landing](Makari-Landing.png)
+![MakariGPT](MakariGPT-Viz.png)
 
 ### Docking Station
 
@@ -39,6 +39,8 @@ Set sail on an economic voyage, where your deckhands, AI-guided agents, lead you
   - Let Bennett guide you to innovators whose offerings resonate with your mission of ocean preservation.
 
 Hoist your sails and set forth on a voyage that intertwines oceanic well-being with economic prosperity. Welcome aboard Makari!
+
+![Landing](Makari-Landing.png)
 
 ### 💡 Industry & Market Insights
 
