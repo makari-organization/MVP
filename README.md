@@ -21,6 +21,8 @@ Set sail on an economic voyage, where your deckhands, AI-guided agents, lead you
 
 4. **Intelligent Island Matchmaking**: Helmed by the astute Maxwell, our AI-driven cartographer, chart a course towards recommended islands that brim with potential collaborations.
 
+![Makari-Architecture](Makari-Architecture.png)
+
 ### Embark on the Makari Voyage
 
 **For Investors:**
