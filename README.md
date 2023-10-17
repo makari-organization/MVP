@@ -1,12 +1,30 @@
+# Profits or Ocean Preservation? 🤔💸🌊
+
+We know which answer most businesses choose, but why does it have to be this way? 
+
+► Investors find it difficult to find profitable ventures that value ocean preservation.
+
+► Innovators strive to align growth with ocean sustainability but often remain unseen.
+
+► Businesses struggle to find cost-effective, ocean-friendly choices across industries.
+
+## But, why can't we have both?
+
+We must find a platform that bridges ocean preservation with profitability.
+
+![Value-Model](Value-Model.png)
+
 # Start your voyage on Makari
 
-Welcome to **Makari** – a platform where ocean-conscious investors, innovative creators, and eco-aware businesses set sail towards mutual prosperity and oceanic sustainability. 
+Welcome to **Makari** – a platform where ocean-friendly investors, innovators, and businesses set sail towards mutual prosperity and oceanic sustainability.
 
-![MakariGPT](MakariGPT-Viz.png)
+![Makari-AI-Agents](Makari-AI-Agents.png)
 
 ### Docking Station
 
-Set sail on an economic voyage, where your deckhands, AI-guided agents, lead you through the vast ocean of opportunities. Whether you're an investor, innovator, or business, the Makari ocean has an island waiting for you.
+Set sail on an economic voyage, where your deckhands, MakariGPT AI agents, lead you through the vast ocean of opportunities. Whether you're an investor, innovator, or business, the Makari ocean has an island waiting for you.
+
+![MakariGPT](MakariGPT-Viz.png)
 
 ### Navigational Features
 
@@ -21,7 +39,7 @@ Set sail on an economic voyage, where your deckhands, AI-guided agents, lead you
 
 4. **Intelligent Island Matchmaking**: Helmed by the astute Maxwell, our AI-driven cartographer, chart a course towards recommended islands that brim with potential collaborations.
 
-![Makari-Architecture](Makari-Architecture.png)
+![Makari-Islands](Makari-Islands.png)
 
 ### Embark on the Makari Voyage
 
@@ -42,7 +60,7 @@ Set sail on an economic voyage, where your deckhands, AI-guided agents, lead you
 
 Hoist your sails and set forth on a voyage that intertwines oceanic well-being with economic prosperity. Welcome aboard Makari!
 
-![Landing](Makari-Landing.png)
+![Makari-Architecture](Makari-Architecture.png)
 
 ### 💡 Industry & Market Insights
 
@@ -53,6 +71,8 @@ Makari is at the intersection of sustainability and commerce, where oceanic heal
 **Annual Revenue Potential:** A promising $390.7 million, based on our targeted pricing strategies and the current market focus on sustainability.
 
 Contact [invest@makari.company](mailto:invest@makari.company) for further market research details and calculations.
+
+![Landing](Makari-Landing.png)
 
 ### 🔭 The Future with Makari
 
@@ -69,5 +89,7 @@ Interested in contributing or partnering with us? Feel free to reach out to [jac
 [🔗 Investor Relations & Inquiries](mailto:invest@makari.company)
 
 [🔗 Makari's Official Platform - Not Deployed Yet](https://github.com/makari-organization/MVP)
+
+![Makari-Logo](Makari-Logo.png)
 
 © 2023 Makari. All Rights Reserved.
