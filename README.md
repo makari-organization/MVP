@@ -12,8 +12,6 @@ We know which answer most businesses choose, but why does it have to be this way
 
 We must find a platform that bridges ocean preservation with profitability.
 
-![Value-Model](Value-Model.png)
-
 # Start your voyage on Makari
 
 Welcome to **Makari** – a platform where ocean-friendly investors, innovators, and businesses set sail towards mutual prosperity and oceanic sustainability.
@@ -72,8 +70,6 @@ Makari is at the intersection of sustainability and commerce, where oceanic heal
 
 Contact [invest@makari.company](mailto:invest@makari.company) for further market research details and calculations.
 
-![Landing](Makari-Landing.png)
-
 ### 🔭 The Future with Makari
 
 Our vision goes beyond numbers. While the TAM is a testament to the potential, our true north is the mission to coalesce economic growth with the ocean's health.
@@ -89,7 +85,5 @@ Interested in contributing or partnering with us? Feel free to reach out to [jac
 [🔗 Investor Relations & Inquiries](mailto:invest@makari.company)
 
 [🔗 Makari's Official Platform - Not Deployed Yet](https://github.com/makari-organization/MVP)
-
-![Makari-Logo](Makari-Logo.png)
 
 © 2023 Makari. All Rights Reserved.
